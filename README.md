@@ -1,6 +1,7 @@
 # Hand Volume Controller
 
 This project uses OpenCV and MediaPipe to control the volume of your computer using hand gestures captured by your webcam.
+
 ![volume_control_micro_animation](https://github.com/Mr-Vicky-01/Volume-Controller/assets/143078285/90a6065d-022f-484f-9a37-676627dce3db)
 
 ## Dependencies
